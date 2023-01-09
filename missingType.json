@@ -65,6 +65,9 @@
 	"inLanguage": [
 		"de"
 	],
+	"type": [
+		"LearningResource"
+	],
 	"description": "Feedbackmethoden geben Lehrenden die Möglichkeit, Rückmeldungen von den Studierenden zur Gestaltung des Lehr-/Lernprozesses einzuholen und selbst Feedback zum Lernerfolg der Studierenden zu geben. Der Einsatz von Feedbackmethoden trägt dazu bei, Lehren und Lernen aufeinander abzustimmen und Lehrveranstaltungsentwicklung teilnehmendenorientiert zu gestalten.",
 	"learningResourceType": [
 		{
