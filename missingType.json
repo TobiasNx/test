@@ -1,0 +1,96 @@
+{
+	"license": {
+		"id": "https://creativecommons.org/licenses/by-nd/4.0/"
+	},
+	"creator": [
+		{
+			"honoricPrefix": "http://hbz-nrw.de/regal#academicDegree/unkown",
+			"affiliation": {
+				"name": "Universität Duisburg-Essen",
+				"id": "https://ror.org/04mz5ra38",
+				"type": "Organization"
+			},
+			"name": "Nicole Auferkorte-Michaelis",
+			"id": "https://api.paideia.hbz-nrw.de/adhoc/uri/Tmljb2xlIEF1ZmVya29ydGUtTWljaGFlbGlz",
+			"type": "Person"
+		},
+		{
+			"honoricPrefix": "http://hbz-nrw.de/regal#academicDegree/unkown",
+			"affiliation": {
+				"name": "Universität Duisburg-Essen",
+				"id": "https://ror.org/04mz5ra38",
+				"type": "Organization"
+			},
+			"name": "Annette Hintze",
+			"id": "https://api.paideia.hbz-nrw.de/adhoc/uri/QW5uZXR0ZSBIaW50emU=",
+			"type": "Person"
+		}
+	],
+	"dateCreated": "2023-01-09",
+	"keywords": [
+		"Vielfalt",
+		"Lehren",
+		"Hochschuldidaktik",
+		"komdim.de",
+		"Feedbackmethoden",
+		"Handreichung",
+		"Lehrpraxis",
+		"ZHQE",
+		"Feedbackprozesse",
+		"Rückmeldung"
+	],
+	"name": "Feedbackmethodenbar 2.0 | Zeitschriftenreihe: Diversität konkret (www.komdim.de)",
+	"about": [
+		{
+			"inScheme": {
+				"id": "https://w3id.org/kim/hochschulfaechersystematik/scheme"
+			},
+			"prefLabel": {
+				"de": "Erziehungswissenschaften"
+			},
+			"id": "https://w3id.org/kim/hochschulfaechersystematik/n33",
+			"type": "Concept"
+		},
+		{
+			"inScheme": {
+				"id": "https://w3id.org/kim/hochschulfaechersystematik/scheme"
+			},
+			"prefLabel": {
+				"de": "Erwachsenenbildung und außerschulische Jugendbildung"
+			},
+			"id": "https://w3id.org/kim/hochschulfaechersystematik/n321",
+			"type": "Concept"
+		}
+	],
+	"inLanguage": [
+		"de"
+	],
+	"description": "Feedbackmethoden geben Lehrenden die Möglichkeit, Rückmeldungen von den Studierenden zur Gestaltung des Lehr-/Lernprozesses einzuholen und selbst Feedback zum Lernerfolg der Studierenden zu geben. Der Einsatz von Feedbackmethoden trägt dazu bei, Lehren und Lernen aufeinander abzustimmen und Lehrveranstaltungsentwicklung teilnehmendenorientiert zu gestalten.",
+	"learningResourceType": [
+		{
+			"inScheme": {
+				"id": "https://w3id.org/kim/hcrt/scheme"
+			},
+			"prefLabel": {
+				"de": "Arbeitsmaterial"
+			},
+			"id": "https://w3id.org/kim/hcrt/worksheet",
+			"type": "Concept"
+		}
+	],
+	"id": "https://api.paideia.hbz-nrw.de/resource/orca:83e0ce8c-6e04-481f-a31d-a26984513159",
+	"encoding": [
+		{
+			"contentUrl": "https://api.paideia.hbz-nrw.de/resource/orca:b455c63e-698a-4fac-a5c0-112cd265b7d7/data",
+			"size": "3069718",
+			"encodingFormat": "application/pdf",
+			"type": "MediaObject"
+		}
+	],
+	"mainEntityOfPage": [
+		{
+			"dateCreated": "2023-01-09",
+			"id": "https://api.paideia.hbz-nrw.de/resource/orca:83e0ce8c-6e04-481f-a31d-a26984513159"
+		}
+	]
+}
